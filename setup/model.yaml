@@ -1,0 +1,8 @@
+openai:
+  # You can decide whether to use conversation mode or not
+  # If you set conversation to True, the model will be able to remember the context of the conversation
+  # If you set conversation to False, the model will not be able to remember the context of the conversation
+  # What's more, you can choose the model you want
+  conversation: False
+  model: gpt-3.5-turbo
+  

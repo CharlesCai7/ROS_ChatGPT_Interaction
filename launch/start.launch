@@ -1,0 +1,10 @@
+<launch>
+
+    <node  pkg="ros_chatgpt_interaction" type="chatgpt_node.py"  name="chatgpt_node" output="screen">
+        <rosparam file="$(find ros_chatgpt_interaction)/setup/api_key.yaml" command="load" />
+        <rosparam file="$(find ros_chatgpt_interaction)/setup/model.yaml" command="load" />
+    </node>
+
+    <node pkg="ros_chatgpt_interaction" type="str_pub.py" name="str_pub" output="screen"/>
+
+</launch>
