@@ -15,7 +15,8 @@ lang: "en"
 
 - Link: 
 	- [CharlesCai7/ROS_ChatGPT_Interaction: This repository is for ROS ChatGPT program (github.com)](https://github.com/CharlesCai7/ROS_ChatGPT_Interaction)
-	- https://github.com/CharlesCai7/ROS_ChatGPT_Interaction/assets/98808490/14e56f18-f913-4579-83d5-fd43e4af7e17
+
+https://github.com/CharlesCai7/ROS_ChatGPT_Interaction/assets/98808490/14e56f18-f913-4579-83d5-fd43e4af7e17
 
 
 ## Introduction
