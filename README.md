@@ -1,14 +1,13 @@
-# ROS_ChatGPT_Interaction
----
-title: "ChatGPT Robot Interaction Project Report"
-author: ["charles_cai@berkeley.edu","charlescaiysh@gmail.com"]
-date: "2023-07"
-subject: "Interaction between ROS and Large Language Model ChatGPT"
-keywords: [ROS, LLM, ChatGPT, turtlesim]
-subtitle: "ROS and ChatGPT"
-lang: "en"
----
 # Robot-ChatGPT Interaction Project Report
+
+## Information
+
+- author: Charles Cai
+- email: ["charles_cai@berkeley.edu","charlescaiysh@gmail.com"]
+- date: July, 2023
+- subject: "Interaction between ROS and Large Language Model ChatGPT"
+- keywords: ROS, LLM, ChatGPT, turtlesim
+- lang: en
 
 
 ## Demo and Code
